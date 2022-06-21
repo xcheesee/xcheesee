@@ -39,6 +39,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Lucas Silva](https://img.shields.io/badge/-Lucas%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/jlss98)](LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas121520@gmail.com)](MAIL)
-[![GitHub xcheesee]( https://img.shields.io/github/followers/xcheesee?label=follow&style=social)](GITHUB)
+[![Linkedin: Lucas Silva](https://img.shields.io/badge/-Lucas%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/jlss98)](https://linkedin.com/in/jlss98)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas121520@gmail.com)](mailto:lucas121520@gmail.com)
+[![GitHub xcheesee]( https://img.shields.io/github/followers/xcheesee?label=follow&style=social)](https://github.com/xcheesee)
